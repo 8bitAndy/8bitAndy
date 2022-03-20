@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liam
-- 🌱 I’m currently learning Python, Javascript, HTML and CSS
+- 🌱 I’m currently learning C++, Python, Javascript, HTML and CSS
 - 💞️ I’m looking to collaborate on Open Source Projects!
 - 📫 DM me for more info
 
