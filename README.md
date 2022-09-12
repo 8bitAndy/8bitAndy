@@ -1,5 +1,6 @@
 ### Hi, I'm Liam 👋 
 
+
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/8bitAndy?label=Followers&style=flat-square)
@@ -18,15 +19,13 @@ I'm a Software Engineering student at Edith Cowan University, I love developing 
 
 ### Other Stuff
 
-- :cloud::zap: I volunteer at <a href="https://coderdojo.com/">CoderDojo</a> to help kids develop their coding skills!
+- :cloud: I volunteer at <a href="https://coderdojo.com/">CoderDojo</a> to help kids develop their coding skills!
 - :computer: I’m currently improving my web and mobile development skills
+<br/>
 
-
-
+### Some of my stats  :zap:
 
 <!--dashboards-->
 <br/>
-<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide=html" alt="Languages msandfor uses" /></p>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="GitHub Stats for 8bitAndy" />
