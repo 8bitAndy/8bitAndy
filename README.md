@@ -1,4 +1,4 @@
-### Hi, I'm Liam 👋 
+### Hi, I'm Liam 👋
 
 
 <!-- Followers Count and Views Count -->
@@ -37,6 +37,7 @@ I'm a Software Engineering student at Edith Cowan University, I love developing 
 
 - :cloud: I volunteer at <a href="https://coderdojo.com/">CoderDojo</a> to help kids develop their coding skills!
 - :computer: I’m currently improving my web and mobile development skills
+- :wave: Flick me a message on <a href="https://www.linkedin.com/in/liam-c-andrews/">LinkedIn</a>
 <br/>
 
 ## 📊 Github stats  
