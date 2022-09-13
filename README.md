@@ -7,6 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/8bitAndy)
 
 
+
 - ✨ I’m currently learning C#, C++, Python, Java, HTML and CSS
 - 🌱 I’m looking to collaborate on Open Source Projects!
 - :octocat: DM me for more info
@@ -44,3 +45,5 @@ I'm a Software Engineering student at Edith Cowan University, I love developing 
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide=html" alt="Languages msandfor uses" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="GitHub Stats for 8bitAndy" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8bitAndy&theme=monokai) 
