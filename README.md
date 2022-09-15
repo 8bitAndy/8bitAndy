@@ -42,8 +42,8 @@ I'm a Software Engineering student at Edith Cowan University, I love developing 
 |:---:|
 |<img src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="200" height="200" />|
 
-### :pencil: My current project
-<p>I'm currently working on a project using Solar2D with lua to create a mobile application that uses<a href="https://github.com/8bitAndy/MobileAppsAssignment"> Monte Carlo Methods</a> to plot and find the area of curves, flick me a message if you want to find out more!</p>
+### :pencil: <a href="https://github.com/8bitAndy/MobileAppsAssignment">My current project</a>
+<p>I'm currently working on a project using Solar2D with lua to create a mobile application that uses <a href="https://github.com/8bitAndy/MobileAppsAssignment">Monte Carlo Methods</a> to plot and find the area of curves, flick me a message if you want to find out more!</p>
 
 
 ### Other Stuff
