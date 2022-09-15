@@ -40,7 +40,7 @@ I'm a Software Engineering student at Edith Cowan University, I love developing 
 
 |[**AI-900**](https://www.credly.com/badges/f0b28419-fab4-4487-a03b-210a02f1a6f9)|
 |:---:|
-|<img src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="200" height="200" />|
+|<img src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="150" height="150" />|
 
 ### :pencil: <a href="https://github.com/8bitAndy/MobileAppsAssignment">My current project</a>
 <p>I'm currently working on a project using Solar2D with lua to create a mobile application that uses <a href="https://github.com/8bitAndy/MobileAppsAssignment">Monte Carlo Methods</a> to plot and find the area of curves, flick me a message if you want to find out more!</p>
