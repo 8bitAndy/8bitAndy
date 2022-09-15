@@ -33,6 +33,16 @@ I'm a Software Engineering student at Edith Cowan University, I love developing 
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </p>
 
+<!-- Technical qualifications table -->
+
+### :mortar_board: My certifications
+<br/>
+
+|[**AI-900**](https://www.credly.com/badges/f0b28419-fab4-4487-a03b-210a02f1a6f9)|
+|:---:|
+|<img src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="200" height="200" />|
+
+
 ### Other Stuff
 
 - :cloud: I volunteer at <a href="https://coderdojo.com/">CoderDojo</a> to help kids develop their coding skills!
