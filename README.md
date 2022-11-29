@@ -15,7 +15,7 @@
 <!-- Profile details -->
 
 ### About me
-I'm a Software Engineering student at Edith Cowan University, I love developing software solutions for problems of any kind!
+I'm a Software Developer Intern and a Software Engineering student at Edith Cowan University, I love developing software solutions for problems of any kind!
 <br/>
 
 ### :zap: My languages
@@ -31,6 +31,7 @@ I'm a Software Engineering student at Edith Cowan University, I love developing 
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    <img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-025E9F.svg?logo=react&logoColor=white">
 </p>
 
 <!-- Technical qualifications table -->
