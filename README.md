@@ -8,7 +8,7 @@
 
 
 
-- ✨ I’m currently learning C#, C++, Python, Java, HTML and CSS
+- ✨ I’m currently learning front end web development with React and Typescript
 - 🌱 I’m looking to collaborate on Open Source Projects!
 - :octocat: DM me for more info
 
