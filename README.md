@@ -39,12 +39,16 @@ I'm a Software Developer Intern and a Software Engineering student at Edith Cowa
 ### :mortar_board: My certifications
 <br/>
 
-|[**AI-900**](https://www.credly.com/badges/f0b28419-fab4-4487-a03b-210a02f1a6f9)|
-|:---:|
-|<img src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="150" height="150" />|
+|[**AI-900**](https://www.credly.com/badges/f0b28419-fab4-4487-a03b-210a02f1a6f9)| [**CLF-C01**](https://www.credly.com/badges/8f63fd0f-3477-4fb7-821e-dc4a87d29e1f/public_url)|
+|:---:|:---:|
+|<img src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="150" height="150" />| <img src="https://github.com/8bitAndy/8bitAndy/blob/main/aws-certified-cloud-practitioner.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="150" height="150" />|
 
-### :pencil: <a href="https://github.com/8bitAndy/MobileAppsAssignment">My current project</a>
-<p>I'm currently working on a project using Solar2D with lua to create a mobile application that uses <a href="https://github.com/8bitAndy/MobileAppsAssignment">Monte Carlo Methods</a> to plot and find the area of curves, flick me a message if you want to find out more!</p>
+### :pencil: <a href="https://8bitandy.github.io/portfolio/">My current project</a>
+<p>I'm developing a portfolio website made with TypeScript and React, this simple responsive site will be to showcase some of my previous work <a href="https://8bitandy.github.io/portfolio/">check it out here!</a><p>
+
+
+## Some of my old work
+<p>A project using Solar2D with lua to create a mobile application that uses <a href="https://github.com/8bitAndy/MobileAppsAssignment">Monte Carlo Methods</a> to plot and find the area of curves, flick me a message if you want to find out more!</p>
 
 
 ### Other Stuff
