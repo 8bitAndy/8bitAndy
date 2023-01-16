@@ -18,7 +18,7 @@
 I'm a Software Developer Intern and a Software Engineering student at Edith Cowan University, I love developing software solutions for problems of any kind!
 <br/>
 
-### :zap: My languages
+### :zap: My languages & frameworks
 
 <p>
     <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
@@ -28,6 +28,7 @@ I'm a Software Developer Intern and a Software Engineering student at Edith Cowa
     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
     <br/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typecript&logoColor=black">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
@@ -42,6 +43,8 @@ I'm a Software Developer Intern and a Software Engineering student at Edith Cowa
 |[**AI-900**](https://www.credly.com/badges/f0b28419-fab4-4487-a03b-210a02f1a6f9)| [**CLF-C01**](https://www.credly.com/badges/8f63fd0f-3477-4fb7-821e-dc4a87d29e1f/public_url)|
 |:---:|:---:|
 |<img src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="150" height="150" />| <img src="https://github.com/8bitAndy/8bitAndy/blob/main/aws-certified-cloud-practitioner.png" data-canonical-src="https://github.com/8bitAndy/8bitAndy/blob/main/microsoft-certified-ai-900.png"  width="150" height="150" />|
+
+<br/>
 
 ### :pencil: <a href="https://8bitandy.github.io/portfolio/">My current project</a>
 <p>I'm developing a portfolio website made with TypeScript and React, this simple responsive site will be to showcase some of my previous work <a href="https://8bitandy.github.io/portfolio/">check it out here!</a><p>
