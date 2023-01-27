@@ -65,7 +65,7 @@ I'm a Software Developer Intern and a Software Engineering student at Edith Cowa
 
 <!--dashboards-->
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide=html" alt="Languages msandfor uses" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="GitHub Stats for 8bitAndy" />
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&hide=html" alt="Languages msandfor uses" /></p>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=8bitAndy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="GitHub Stats for 8bitAndy" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8bitAndy&theme=monokai) 
