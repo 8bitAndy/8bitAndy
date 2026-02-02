@@ -14,7 +14,7 @@
 <!-- Profile details -->
 
 ### About me
-I'm a Software Developer Intern and a Software Engineering student at Edith Cowan University, I love developing software solutions for problems of any kind!
+I'm a Software Developer in Australia! I completed my degree in Software Engineering degree at Edith Cowan University
 <br/>
 
 ### :zap: My languages & frameworks
