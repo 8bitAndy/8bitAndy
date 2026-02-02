@@ -47,7 +47,7 @@ I'm a Software Developer Intern and a Software Engineering student at Edith Cowa
 <br/>
 
 ### :pencil: <a href="https://8bitandy.github.io/portfolio/">My current project</a>
-<p>I'm developing a portfolio website made with TypeScript and React, this simple responsive site will be to showcase some of my previous work <a href="https://8bitandy.github.io/portfolio/">check it out here!</a><p>
+<p>Remaking my portfolio website since it's trash! <a href="https://8bitandy.github.io/portfolio/">check it out here!</a><p>
 
 
 ## Some of my old work
