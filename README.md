@@ -4,7 +4,6 @@
 <!-- Followers Count and Views Count -->
 
 ![](https://img.shields.io/github/followers/8bitAndy?label=Followers&style=flat-square)
-![Profile views](https://gpvc.arturio.dev/8bitAndy)
 
 
 
